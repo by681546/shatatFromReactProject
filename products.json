@@ -1,0 +1,102 @@
+[
+   
+    {
+        "id": 5,
+        "name": "ערכת טיפוח משתלמת",
+        "description": "גבינה 5%",
+        "imgUrl": "ללין-מארז-טו-באב-149.90-שח-במקום-279.50-VIP-DESIGN-צילום.jpg",
+        "content": "500 גרם",
+        "price": 255,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 6,
+        "name": "ערכה לכלה",
+        "description": "גבינה 5%",
+        "imgUrl": "Untitled-3-scaled.jpg",
+        "content": "500 גרם",
+        "price": 375,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 7,
+        "name": "מפיץ ריח דגם פלורנס",
+        "description": "גבינה 5%",
+        "imgUrl": "FW7A0030-2-300x300.jpg",
+        "content": "500 גרם",
+        "price": 80,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 9,
+        "name": "מפיץ ריח לבדים",
+        "description": "גבינה 5%",
+        "imgUrl": "ללין-צילום-תמוז-רחמן-14-1-3dev9yjm6n5kljymwgi68a.jpg",
+        "content": "500 גרם",
+        "price": 33,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 8,
+        "name": "סבון גוף",
+        "description": "גבינה 5%",
+        "imgUrl": "IMG_0682-2-scaled.jpg",
+        "content": "500 גרם",
+        "price": 60,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 4,
+        "name": "דאורדורנט בנות",
+        "description": "חטיף בןטנים",
+        "imgUrl": "IMG_8099-scaled.jpg",
+        "content": "80 גרם",
+        "price": 54,
+        "isCooling": false,
+        "company": "אסם",
+        "prodDate": "5-5-2022"
+    },
+    {
+        "id": 1,
+        "name": "ג'ל לשיער",
+        "description": "חלב מפוסטר 3%",
+        "imgUrl": "M02204050999_01.webp",
+        "content": "100 גרם",
+        "price": 57,
+        "isCooling": true,
+        "company": "טרה",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 2,
+        "name": "בושם לנשים",
+        "description": "לחם אחיד פרוס",
+        "imgUrl": "M040250511999_01.jpg",
+        "content": "750 גרם",
+        "price": 125,
+        "isCooling": false,
+        "company": "אנג'ל",
+        "prodDate": "10-10-2022"
+    },
+    {
+        "id": 3,
+        "name": "מפיץ לרכב",
+        "description": "גבינה 5%",
+        "imgUrl": "M51250.jpg",
+        "content": "500 גרם",
+        "price": 38,
+        "isCooling": true,
+        "company": "תנובה",
+        "prodDate": "5-5-2022"
+    }
+]
